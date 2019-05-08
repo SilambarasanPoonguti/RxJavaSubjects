@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">RxJavaSubjects</string>
+
+  <string name="type_publish">PublishSubject</string>
+  <string name="type_replay">ReplaySubject</string>
+  <string name="type_behavior">BehaviorSubject</string>
+  <string name="type_async">AsyncSubject</string>
+
+  <string name="rxjava_subjects">RxJava subjects</string>
+  <string name="watch_movie">Watch movie</string>
+</resources>
